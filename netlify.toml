@@ -1,2 +1,2 @@
 [[plugins]]
-package = "./cancel-every-deploy-plugin.js"
+package = "./cancel-every-deploy-plugin"
