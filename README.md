@@ -1,3 +1,3 @@
 # test-netlify-deploy-notifications
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5b6e05c9-23b6-4d2d-be99-a7359dcd9532/deploy-status)](https://app.netlify.com/sites/priceless-perlman-8130d0/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e979c63-4033-4837-8a15-adfd14702c7e/deploy-status)](https://app.netlify.com/sites/naughty-perlman-4d529e/deploys)
